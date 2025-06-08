@@ -18,3 +18,27 @@
         "vlan": "81"
     }
 }
+
+
+new
+
+{
+    "aironetInfo": {
+        "device_type": "cisco_ios_telnet",
+        "host": "10.52.10.3",
+        "username": "admin",
+        "password": "pass", 
+        "secret": "pass"
+    },
+
+    "aironetConfig": {
+        "hostname": "airowifi",
+        "ssid": "NetDevOPSWifi-52Jestran",
+        "authentication": "open",
+        "key-man": "wpa",
+        "wifi-pass": "C1sc0123",
+        "channel": "8",
+        "encr-mod": "tkip",
+        "vlan": "52"
+    }
+}
