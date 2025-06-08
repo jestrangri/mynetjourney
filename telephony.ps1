@@ -1,4 +1,6 @@
-﻿config t   
+!@cucm
+ 
+ config t   
 no telephony-service
 telephony-service
    no auto assign
